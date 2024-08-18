@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.edu.ue.client</groupId>
-	<artifactId>myfifthproyect</artifactId>
+	<artifactId>08-ServiciosLibres</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>myfifthproyect</name>
+	<name>08-ServiciosLibres</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
